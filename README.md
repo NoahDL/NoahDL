@@ -1,5 +1,8 @@
-# 💫 About Me:
-Atualmente estou em processo de aprendizagem sobre JavaScript puro, sem contato direto com o HTML.<br>Busco ajudar e contribuir em projetos livres, ou o que for possível.<br>Eu tenho 14 anos, nasci em 2010, faço 15 nesse ano ainda, e estou procurando aprender o máximo e contribuir no que eu puder para ter um perfil bom antes dos 18.
+# 💫 Me:
+Atualmente, estou focado em aprender JavaScript puro, sem interação direta com HTML.<br>
+Busco ajudar e contribuir em projetos livres, ou onde for possível.<br>
+Tenho 14 anos, nasci em 2010 e faço 15 ainda este ano.<br>
+Meu objetivo é aprender o máximo possível e contribuir no que eu puder, para ter um perfil bacana e sólido antes dos 18.
 
 
 # 💻 Tech Stack:
